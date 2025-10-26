@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Iris-Flower-Classification
+Version: 0.1
+Requires-Python: >=3.6
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: numpy
+Requires-Dist: mlflow
+Requires-Dist: joblib
